@@ -1,5 +1,5 @@
 
-# Supply Chain Analytics 
+# PowerBI Dashboard for Supply Chain Challenges 
 
 The analysis is done for the supply chain domain of 'AtliQ Mart,' an FMCG company, where the no. of customers renewing the contract is decreasing. The company is present in Vadodara, Surat, and Ahmedabad city and sells its various products in the Dairy, Food, and Beverages Categories. And the stakeholders are the director and head of the supply chain of 'AtliQ Mart.'
 
